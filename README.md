@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a humble showcase of my HTML and Git skills through a simple recipe page. Using just <li> and <ul> elements, I've tried to organize recipes neatly. It's a small demonstration of how HTML's lists can structure content. Feel free to peek at the code to see how HTML and Git work together to create a functional recipe display. Any feedback is greatly appreciated!
