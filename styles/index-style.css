@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  background-color: rgb(235, 224, 206);
+  color: rgb(100, 2, 2);
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header .headline {
+  font-size: 20px;
+  text-align: center;
+  margin: 15px;
+}
+
+.header .picture {
+  width: 600px;
+  height: auto;
+  border-radius: 15px;
+}
