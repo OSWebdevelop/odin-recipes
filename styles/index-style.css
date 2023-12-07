@@ -40,7 +40,7 @@
   border-radius: 5px;
   cursor: pointer;
 }
-.flexbox div {
+.flexbox a {
   display: flex;
   flex-direction: column;
   justify-content: center;
