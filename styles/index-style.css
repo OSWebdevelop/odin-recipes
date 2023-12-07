@@ -11,15 +11,39 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 25px;
 }
 .header .headline {
   font-size: 20px;
   text-align: center;
-  margin: 15px;
+  margin-bottom: 15px;
 }
 
 .header .picture {
-  width: 600px;
+  width: 660px;
   height: auto;
   border-radius: 15px;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  margin: 0px 15px;
+  align-items: center;
+  justify-content: center;
+}
+.flexbox img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.flexbox div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px 15px;
 }
