@@ -47,3 +47,12 @@
   align-items: center;
   margin: 5px 15px;
 }
+
+.flexbox a:hover {
+  color: rgb(202, 4, 4);
+  font-weight: bold;
+}
+
+.flexbox img:hover {
+  object-position: right;
+}
